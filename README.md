@@ -1,6 +1,6 @@
 # Sequent Prover
 
-Implementation of Lukas Stevens & Joshua von Mutius
+A simple sequent solver build for a logics course
 
 # Build Information
 
